@@ -1,6 +1,6 @@
-# Kirk Knobelspiesse
+# Kirk Knobelspiesse, PhD
 
-My research uses Remote Sensing to observe and understand our home planet, Earth. This requires an interdisciplinary or often transdisciplinary approach, spanning applied physics, computer science, mathematics, statistics, and Earth Science to deliver actionable insight. My speciality is the use of observed polarized electromagnetic radiation to understand the nature of the atmosphere, ocean, and land surfaces. I work in all stages of development, from quantitative information content assessment to guide observation design, to statistical and AI/ML tools to interpret global observations as they are made, and the assessment of data quality with validation field campaigns. 
+My research uses Remote Sensing to observe and understand our home planet, Earth. This requires an interdisciplinary or often transdisciplinary approach, spanning applied physics, computer science, mathematics, statistics, and Earth Science to deliver actionable insight. My speciality is the use of observed polarized electromagnetic radiation to understand the nature of the atmosphere, ocean, and land surfaces. I work in all stages of development, from quantitative information content assessment that guides instrument design, to statistical and AI/ML tools to interpret global observations as they are made, and the assessment of data quality with validation field campaigns. 
 
 ## Current activities
 - NASA Plankton, Aerosol, Cloud, ocean Ecosystem ([PACE](https://pace.oceansciences.org)) Mission, Polarimeter lead, 2016 to present
