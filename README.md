@@ -1,9 +1,13 @@
-## Hi there 👋
+# Kirk Knobelspiesse
 
-<!--
-**knobelsp/knobelsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My research uses Remote Sensing to observe and understand our home planet, Earth. This requires an interdisciplinary or often transdisciplinary approach, spanning applied physics, computer science, mathematics, statistics and Earth Science to deliver actionable insight. My speciality is the use of observed polarized electromagnetic radiation to understand the nature of the atmosphere, ocean, and land surfaces. I work in all stages of development, from quantitative information content assessment to guide observation design, to statistical and AI/ML tools to interpret global observations as they are made, and the assessment of data quality with validation field campaigns. 
 
-Here are some ideas to get you started:
+## Current activities
+- Plankton, Aerosol, Cloud, ocean Ecosystem ([PACE](https://pace.oceansciences.org)) Mission, Polarimeter lead, 2016 to present
+- PACE Postlaunch Airborne eXperiment ([PACE-PAX](https://pace.oceansciences.org/pace-pax.htm)), Mission Scientist, 2023 to present
+- Atmosphere Observing System ([AOS](https://aos.gsfc.nasa.gov)), Polarimeter Instrument Scientist, 2022 to present
+
+Publications
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
