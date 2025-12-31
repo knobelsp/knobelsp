@@ -8,7 +8,7 @@ My research uses Remote Sensing to observe and understand our home planet, Earth
 - NASA Atmosphere Observing System ([AOS](https://aos.gsfc.nasa.gov)), Polarimeter Instrument Scientist, 2022 to present
 
 ## Selected recent publications
-| Full list at [Google Scholar](https://scholar.google.com/citations?hl=en&user=JWTbuDQAAAAJ) |  |
+| Full list at [Google Scholar](https://scholar.google.com/citations?hl=en&user=JWTbuDQAAAAJ) and my [NASA profile](https://science.gsfc.nasa.gov/sci/bio/kirk.d.knobelspiesse)|  |
 | :----------- | -- |
 | Sayer A. M., B. Cairns, **K. Knobelspiesse**, L. Lelli, C. Rajapakshe, S. E. Giangrande, G. E. Thomas and D. Zhang. 2025. "Evaluation of cloud height, optical thickness, and phase retrievals from the CHROMA algorithm applied to Sentinel-3 OLCI data.", Atmospheric Measurement Techniques, 18 (22): 6681-6703 | [link](https://doi.org/10.5194/amt-18-6681-2025) |
 | Segal Rozenhaimer M., **K. Knobelspiesse**, D. Miller, D. Batenkov. 2025. "Retrievals of Biomass Burning Aerosol and Liquid Cloud Properties from Polarimetric Observations Using Deep Learning Techniques." Remote Sensing 17 (10): 1693 | [link](https://doi.org/10.3390/rs17101693) |
